@@ -5,7 +5,7 @@ This API is a Node.js Express backend that allows you to do session based login 
 
 ## Getting Started
 
-These instructions will help you set up and run the Climate Change API on your local machine for development and testing purposes.
+These instructions will help you set up and run the API on your local machine for development and testing purposes.
 
 ### Prerequisites
 
